@@ -236,11 +236,11 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
 JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
-1:50375
-1679330513668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRIOp0s"
-1679330514152	Marionette	INFO	Marionette enabled
-WebDriver BiDi listening on ws://localhost:50376
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRIOp0s\\search.json.mozlz4", (void 0)))
+1679403552911	Marionette	INFO	Stopped listening on port 50279
+[Parent 32616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRIOp0s\\search.json.mozlz4", (void 0)))
 1679330516549	Marionette	INFO	Listening on port 50404
 DevTools listening on ws://localhost:50376/devtools/browser/484198d2-afe4-4578-90ec-d15de693705a
 Read port: 50404
