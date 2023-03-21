@@ -1,0 +1,257 @@
+1679328866224	geckodriver	INFO	Listening on 127.0.0.1:63749
+1679328869388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileLayrFL"
+1679329137701	geckodriver	INFO	Listening on 127.0.0.1:64288
+1679329140770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileFXjX7g"
+1679329141302	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64289
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileFXjX7g\\search.json.mozlz4", (void 0)))
+1679329144569	Marionette	INFO	Listening on port 64345
+DevTools listening on ws://localhost:64289/devtools/browser/9f11f43b-5201-4f02-97b7-3fe8ecebf53f
+Read port: 64345
+1679329144700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679329699704	Marionette	INFO	Stopped listening on port 64345
+[Parent 30832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 30832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+file?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileJkYmvg\\search.json.mozlz4", (void 0)))
+1679329268789	Marionette	INFO	Listening on port 64534
+Read port: 64534
+1679329268817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:64505/devtools/browser/22f118a0-5667-4e93-8094-3d683d61f057
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330310006	Marionette	INFO	Stopped listening on port 64534
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRRE7tF"
+1679329343396	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64630
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRRE7tF\\search.json.mozlz4", (void 0)))
+1679329345610	Marionette	INFO	Listening on port 64662
+DevTools listening on ws://localhost:64630/devtools/browser/6a094395-ade2-4604-aa6c-d1d557a98634
+Read port: 64662
+1679329345762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330308602	Marionette	INFO	Stopped listening on port 64662
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 32684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+led
+WebDriver BiDi listening on ws://localhost:64737
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileLdRCHo\\search.json.mozlz4", (void 0)))
+1679329395919	Marionette	INFO	Listening on port 64768
+Read port: 64768
+DevTools listening on ws://localhost:64737/devtools/browser/00595af0-5b5b-4fd3-8026-cdd3fe80c216
+1679329395957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330306080	Marionette	INFO	Stopped listening on port 64768
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileIgz5hC"
+1679329413164	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64827
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileIgz5hC\\search.json.mozlz4", (void 0)))
+1679329416177	Marionette	INFO	Listening on port 64859
+DevTools listening on ws://localhost:64827/devtools/browser/000365dd-fdd5-422d-ab37-6ff53331faee
+Read port: 64859
+1679329416288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330295013	Marionette	INFO	Stopped listening on port 64859
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofilewL0VQ3"
+1679329664829	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65130
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofilewL0VQ3\\search.json.mozlz4", (void 0)))
+1679329667423	Marionette	INFO	Listening on port 65163
+DevTools listening on ws://localhost:65130/devtools/browser/4d18e9d9-633f-40be-93c4-62a481528f58
+Read port: 65163
+1679329667576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679330292625	Marionette	INFO	Stopped listening on port 65163
+calhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileJZeGao"
+1679329745368	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65265
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileJZeGao\\search.json.mozlz4", (void 0)))
+1679329747858	Marionette	INFO	Listening on port 65296
+DevTools listening on ws://localhost:65265/devtools/browser/3a7b8dfa-508c-468d-b0b9-3e29d4bcdb34
+Read port: 65296
+1679329747929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330297517	Marionette	INFO	Stopped listening on port 65296
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileirUEU8"
+1679329777812	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:65359
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileirUEU8\\search.json.mozlz4", (void 0)))
+1679329780416	Marionette	INFO	Listening on port 65391
+DevTools listening on ws://localhost:65359/devtools/browser/55c52a87-e0e1-4e15-8b0a-d673eaf7a7b8
+Read port: 65391
+1679329780518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1679330300065	Marionette	INFO	Stopped listening on port 65391
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofile0iSBg1"
+1679329881492	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49184
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofile0iSBg1\\search.json.mozlz4", (void 0)))
+1679329883908	Marionette	INFO	Listening on port 49224
+DevTools listening on ws://localhost:49184/devtools/browser/68ab2df8-62a7-4751-8862-fe927f3666b0
+Read port: 49224
+1679329883966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679330302888	Marionette	INFO	Stopped listening on port 49224
+[Parent 24176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+NFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49415
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileeJFpYD\\search.json.mozlz4", (void 0)))
+1679330082212	Marionette	INFO	Listening on port 49446
+DevTools listening on ws://localhost:49415/devtools/browser/be648450-2900-407d-adc5-e3e7248da4f6
+Read port: 49446
+1679330082296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1679330304416	Marionette	INFO	Stopped listening on port 49446
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+49498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileHcPd2B"
+1679330104066	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49498
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileHcPd2B\\search.json.mozlz4", (void 0)))
+1679330106716	Marionette	INFO	Listening on port 49531
+Read port: 49531
+DevTools listening on ws://localhost:49498/devtools/browser/ea4dca6f-7f6c-41d8-a42b-312a96a6d1f9
+1679330106803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1679330311425	Marionette	INFO	Stopped listening on port 49531
+9330164378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileTr9REo"
+1679330165019	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49618
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileTr9REo\\search.json.mozlz4", (void 0)))
+1679330168133	Marionette	INFO	Listening on port 49656
+DevTools listening on ws://localhost:49618/devtools/browser/f7f4aa78-f76d-471d-9d02-6182241f5b5f
+Read port: 49656
+1679330168251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1679330314626	Marionette	INFO	Stopped listening on port 49656
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+49801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofilejjlNUm"
+1679330288331	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:49801
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofilejjlNUm\\search.json.mozlz4", (void 0)))
+1679330291035	Marionette	INFO	Listening on port 49835
+Read port: 49835
+DevTools listening on ws://localhost:49801/devtools/browser/61bfcefe-22bf-4bbc-b564-ce776bda9e38
+1679330291065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1679330319867	Marionette	INFO	Stopped listening on port 49835
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1679330462731	geckodriver	INFO	Listening on 127.0.0.1:50248
+1679330465771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofile4IhhkD"
+1679330466319	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50249
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofile4IhhkD\\search.json.mozlz4", (void 0)))
+1679330468889	Marionette	INFO	Listening on port 50279
+DevTools listening on ws://localhost:50249/devtools/browser/70875a44-95a3-4c81-89de-bf107313f2a3
+Read port: 50279
+1679330469003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1:50375
+1679330513668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRIOp0s"
+1679330514152	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50376
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\josef\\AppData\\Local\\Temp\\rust_mozprofileRIOp0s\\search.json.mozlz4", (void 0)))
+1679330516549	Marionette	INFO	Listening on port 50404
+DevTools listening on ws://localhost:50376/devtools/browser/484198d2-afe4-4578-90ec-d15de693705a
+Read port: 50404
+1679330516674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1679330520042	Marionette	INFO	Stopped listening on port 50404
+[Parent 9456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
