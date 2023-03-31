@@ -6,23 +6,23 @@ int main()
     float float_number1, float_number2, ftotal; /* storage areas for the float numbers */
         /* ask the user to enter two integers */
     printf("Please enter an integer number:\n ");
-    scanf("%d", &int_number1); /* read integer number in */
+    scanf("%d", &int_number1); 
     printf("You entered %d\n", int_number1);
     printf("Please enter another integer number: \n");
-    scanf("%d", &int_number2); /* read integer number in */
+    scanf("%d", &int_number2); 
     printf("You entered %d\n", int_number2);
-        /* add the two numbers into ‘total’ and display the answer */
-    itotal = int_number1 + int_number2; /* add two numbers */
+       
+    itotal = int_number1 + int_number2; 
     printf("total is %d\n", itotal);
-        /* ask the user to enter two floating point (decimal) numbers */
+       
     printf("Please enter a float number:\n ");
-    scanf("%f", &float_number1); /* read decimal number in */
+    scanf("%f", &float_number1); 
     printf("You entered %f\n", float_number1);
     printf("Please enter another float number: \n");
-    scanf("%f", &float_number2); /* read decimal number in */
+    scanf("%f", &float_number2); 
     printf("You entered %f\n", float_number2);
-        /* add the two numbers into 'total' and display the answer */
-    ftotal = float_number1 + float_number2; /* add the numbers */
+      
+    ftotal = float_number1 + float_number2; 
     printf("total is %f\n", ftotal);
     return 0;
     }
