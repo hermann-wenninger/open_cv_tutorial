@@ -21,4 +21,3 @@ void foo(int n, int m)
         printf("%d\n", p[i]);
     free(p); /* return p to available memory pool */
 }
-foo(4,7)
