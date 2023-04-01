@@ -1,3 +1,6 @@
 {
     "activestate.promptRuntimeCreation": false
 }
+{
+    "editor.formatOnSave": true
+}
